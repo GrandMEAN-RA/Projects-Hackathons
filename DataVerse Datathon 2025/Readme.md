@@ -4,8 +4,8 @@ Iya Bola Assistant is a multilingual, data-driven financial assistant designed t
 It supports essential financial tasks and provides financial education using simple, conversational interactions in **English**, **Pidgin**, and **Yoruba**.
 
 ## Installations:
-  Core (Required): pip install streamlit pandas langdetect
-  Voice Features:  pip install SpeechRecognition gTTS
+  Core (Required): pip install streamlit pandas langdetect.
+  Voice Features:  pip install SpeechRecognition gTTS.
       - Voice input/output will only work if these are installed.
 
 ## 🧩 Installing and Running the App
