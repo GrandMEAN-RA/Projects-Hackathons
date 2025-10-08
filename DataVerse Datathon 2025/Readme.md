@@ -5,9 +5,9 @@ It supports essential financial tasks and provides financial education using sim
 
 ## Installations:
   Core (Required)
-    pip install streamlit pandas langdetect
+      pip install streamlit pandas langdetect
   Voice Features
-    pip install SpeechRecognition gTTS
+      pip install SpeechRecognition gTTS
       - Voice input/output will only work if these are installed.
 
 ## 🧩 Installing and Running the App
