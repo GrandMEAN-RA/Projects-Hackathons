@@ -102,7 +102,7 @@ It also provide financial education, real-time analytics, and a user-friendly in
 
 
 
-**GrandMEAN\_Assistant\_Dataverse\_Datathon\_2025.zip**
+**Iya_Bola\_Assistant\_Dataverse\_Datathon\_2025.zip**
 
 \- iya\_bola\_assistant\_app.py        # Streamlit chatbot prototype
 
@@ -111,6 +111,7 @@ It also provide financial education, real-time analytics, and a user-friendly in
 \- sample\_user\_log.csv              # Mock chat data for dashboard demo
 
 \- project\_overview.txt             # Submission summary \& pitch
+
 
 
 
