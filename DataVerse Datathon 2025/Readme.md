@@ -1,5 +1,6 @@
 # 💬 Iya Bola Assistant App - Streamlit Prototype
 **Inclusive Financial Assistant for Africa — Dataverse Datathon 2025 Submission**
+
 Iya Bola Assistant is a multilingual, data-driven financial assistant designed to empower underserved communities across Africa.  
 It supports essential financial tasks and provides financial education using simple, conversational interactions in **English**, **Pidgin**, and **Yoruba**.
 
