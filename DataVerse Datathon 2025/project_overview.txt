@@ -1,8 +1,0 @@
-GrandMEAN Assistant - Dataverse Datathon 2025 Submission
-By Ope Sadiku | GrandMEAN Analytics
-
-Empowering Africa through data-driven financial inclusion.
-Features:
-- Multilingual, multimodal assistant (text, voice, image optional)
-- Core functions: transfers, airtime, bills, micro-savings, financial literacy
-- Dashboard analytics and CSV export for further insights
