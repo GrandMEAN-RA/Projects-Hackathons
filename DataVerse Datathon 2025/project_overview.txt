@@ -62,3 +62,4 @@ GrandMEAN_Assistant_Dataverse_Datathon_2025.zip
 - sample_user_log.csv              # Mock chat data for dashboard demo
 - project_overview.txt             # Submission summary & pitch
 
+
