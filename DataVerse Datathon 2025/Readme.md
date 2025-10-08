@@ -1,4 +1,4 @@
-# GrandMEAN Assistant - Streamlit Prototype
+# Iya Bola Assistant - Streamlit Prototype
 Empowering Africa through Data-Driven Inclusion
 
 ## Installation
